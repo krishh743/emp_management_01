@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+padding: 20px;
+}
+/* EmployeeComponent.css */
+.employee {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #f9f9f9;
+}
+
+.subordinates-list {
+  list-style-type: none;
+  padding-left: 20px;
+  margin: 10px 0;
+}
+
+.subordinate-item {
+  margin-bottom: 5px;
+}
+
+.move-button {
+width: 100px;
+  /* height: 20px; */
+  font-size: 16px;
+  background-color: black;
+  color: white;
+  border-radius: 3px;
+  margin-left: 10px;
+}
+
+.btn-style {
+width: 200px;
+font-size: 20px;
+height: 50px;
+  background-color: black;
+  color: white;
+  border-radius: 3px;
+  margin-left: 10px;
+  border: none;
+  border-radius: 3px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* .btn-style{
+width: 200px;
+height: 50px;
+font-size: 20px;
+background-color: black;
+color: white;
+border-radius: 3px;
+margin-left: 10px;
+} */
